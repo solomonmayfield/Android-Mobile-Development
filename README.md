@@ -1,0 +1,2 @@
+# Android-Mobile-Development
+Covers advanced Object Programming concepts and their application in a mobile environment. Includes OOP inheritance, interfaces, and good design principles. Covers installation and configuration of Android Studio and SDK. Develop a use interface design, write Java code (or Kotlin), code to work with an activity, work with layouts, widgets, and handle events. Work with themes and styles. Create a simple mobile application. 
