@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">parler des oiseaux</string>
+    <string name="action_settings">paramètres</string>
+	<string name="button_play">jouer chanson</string>
+	<string name="button_stop">arrêter chanson</string>
+</resources>
